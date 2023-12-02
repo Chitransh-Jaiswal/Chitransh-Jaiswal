@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML and Business Applications**
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... **My Luck**
 
 - 🧠 Ask me about **Anything and we'll figure that out together**
   
@@ -34,6 +34,7 @@
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> 
 &emsp;
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python" width="40" height="40"/> </a> 
+&emsp;
 <a href="https://en.wikipedia.org/wiki/Hugging_Face" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="HuggingFace" width="40" height="40"/> </a>
 &emsp;
 <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" width="40" height="40"/> </a>
@@ -48,7 +49,9 @@
 &emsp;
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
 &emsp;
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>  
+&emsp;
+<a href="https://en.wikipedia.org/wiki/MySQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitransh-jaiswal&show_icons=true&locale=en&layout=compact" alt="chitransh-jaiswal" /></p>
 
