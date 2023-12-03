@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitransh-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="chitransh-jaiswal" /> </p>
 
-- 🔭 I’m currently working on **developing a portfolio website using Next.JS**
+- 🔭 I’m currently working on **developing a portfolio website**
 
 - 🌱 I’m currently learning **cloud services and transforming data visualizations by analysis using Tableau and PowerBI**
 
