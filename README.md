@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitransh-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="chitransh-jaiswal" /> </p>
 
-- 🔭 I’m currently working on **developing a portfolio website**
+- 🔭 I’m currently working on **backend development projects**
 
-- 🌱 I’m currently learning **cloud services and transforming data visualizations by analysis using Tableau and PowerBI**
+- 🌱 I’m currently learning more about **full stack development**
 
-- 👯 I'm open to collaborations in the realms of **AI/ML and Business Applications**—exploring innovative ventures and shared insights. Let's connect and create something impactful together!
+- 👯 I'm open to collaborations in **AI/ML and Business Applications**—exploring innovative ventures and shared insights. Let's connect and create something impactful together!
 
-- 🤔 I’m looking for help with **...My Luck**
+- 🤔 I’m looking for help with **...finding opportunities to showcase and expand my skills**
 
 - 🧠 Ask me about **anything—I'll either have the answer or know how to find it!**
   
@@ -58,6 +58,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitransh-jaiswal&show_icons=true&locale=en" alt="chitransh-jaiswal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitransh-jaiswal&" alt="chitransh-jaiswal" /></p>
+
 
 
 
