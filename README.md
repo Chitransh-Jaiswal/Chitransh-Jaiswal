@@ -51,6 +51,12 @@
 &emsp;
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>  
 &emsp;
+<a href="https://en.wikipedia.org/wiki/Javascript" target="_blank" rel="noreferrer"> <img src="https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500" alt="Javascript" width="40" height="40"/> </a> 
+&emsp;
+<a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="TailwindCSS" width="40" height="40"/> </a> 
+&emsp;
+<a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/> </a> 
+&emsp;
 <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitransh-jaiswal&show_icons=true&locale=en&layout=compact" alt="chitransh-jaiswal" /></p>
